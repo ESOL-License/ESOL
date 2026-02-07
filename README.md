@@ -104,8 +104,3 @@ To make your project "ESOL-Protected," add the following statement to your `LICE
 
 > *Repository maintained for the security community. Checked & Validated on 07.02.2026.*
 
----
-
-### Nächster Schritt für dich:
-
-Soll ich dir ein kurzes **Bash-Skript** oder eine **GitHub Action** schreiben, die automatisch prüft, ob die `LICENSE`-Datei in einem Repo den ESOL-Hinweis korrekt enthält?
