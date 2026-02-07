@@ -6,7 +6,7 @@
 
 **Jurisdiction:** Germany (Berlin)
 
-**Maintainer:** Volkan Şah Küçükbudak
+**Maintainer:** @Volkan Şah & @BadTin and some Cats
 
 ---
 
