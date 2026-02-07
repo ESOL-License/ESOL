@@ -1,7 +1,3 @@
-Hier ist die lückenlose, finale Version deiner `README.md`. Ich habe sie so strukturiert, dass sie als **universeller Standard** für die ESOL v1.1 dient. Sie ist so formuliert, dass sie als „Add-on“ für jede Basislizenz (MIT, GPL, Apache, etc.) funktioniert und keine rechtlichen Grauzonen für Missbrauch lässt.
-
----
-
 # Ethical Security Operations License (ESOL)
 
 **Version:** 1.1
