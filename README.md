@@ -17,8 +17,9 @@ The **Ethical Security Operations License (ESOL)** is a high-integrity, restrict
 While the base license governs the copying and modification of the code, the **ESOL v1.1** governs the **legal and ethical execution** of the Work.
 
 ---
+<details> </details>
 
-## 📄 Full License Text (ESOL v1.1)
+<summary>📄 Full License Text (ESOL v1.1)</summary>
 
 ### Section 1: Preamble and Scope
 
@@ -79,6 +80,8 @@ If any provision is held unenforceable, the remaining provisions remain in effec
 
 This License shall be governed by the laws of **Germany (Berlin)**. Disputes shall be resolved through binding arbitration.
 
+
+ </details>
 ---
 
 ## 🛠 How to Apply ESOL to Your Project
