@@ -256,5 +256,7 @@ By using, copying, forking, or executing any repository covered by ESOL v1.1:
 
 *ESOL Zero-Tolerance Addendum — authored by VolkanSah*
 *Supplementing ESOL v1.1 (https://github.com/ESOL-License)*
-*Wall of Shames: https://github.com/Wall-of-Shames*
+
+Found Fraud? Please go to site:
+- *Wall of Shames: https://github.com/Wall-of-Shames*
 *Last updated: 2026*
