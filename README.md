@@ -38,7 +38,7 @@ Add the following to your `LICENSE` file or `README.md`, and place the `ESOL_v2.
 
 ```
 This Work is dual-licensed under the [INSERT BASE LICENSE, e.g., MIT] and the
-Ethical Source Operations License (ESOL v2.0).
+Ethical Security Operations Licensee (ESOL v2.0).
 The ESOL is a mandatory, non-severable condition of use.
 By using this software, you agree to all ethical constraints defined in ESOL v2.0.
 ```
