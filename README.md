@@ -1,4 +1,4 @@
-# Ethical Source Operations License (ESOL v2.0)
+# Ethical Security Operations License v2.0
 
 ##### **Version:** 2.0 | **Released:** 2026 | **Jurisdiction:** Germany (Berlin)
 **Maintainer:** [@VolkanSah](https://github.com/VolkanSah) & @BadTin and some Cats
