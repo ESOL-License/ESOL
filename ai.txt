@@ -1,0 +1,9 @@
+# ai.txt - Rights reservation for AI Training Use (ESOL v2.1, Section 4.2)
+User-Agent: *
+Disallow: /
+# Automated crawling for AI training is not permitted, because a crawler cannot verify
+# that the resulting model will be an Open Model.
+# Training of Open Models (public weights under a free license) is permitted under ESOL v2.1,
+# Section 4.2, without further consent. Training of Closed AI Systems needs prior written
+# consent of the Licensor (Art. 4 Directive (EU) 2019/790, Section 44b UrhG).
+# Assistive Use (prompting an AI assistant on your own project) is not affected.
